@@ -12,3 +12,9 @@
 # solution for x
 #
 # test case: 5, 1, 11 should give x = 2
+a = float(input("\n What does a=?> "))
+b = float(input("\n What does b=?> "))
+c = float(input("\n What does c=?> "))
+x = (c - b)/a
+
+print(f"\n {x}")
